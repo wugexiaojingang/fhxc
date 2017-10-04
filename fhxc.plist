@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://www.jsx5.com/images/logo.png</string>
+					<string>http://www.jsx5.com/images/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>金沙秀直播</string>
+				<string>凤凰秀场直播</string>
 			</dict>
 		</dict>
 	</array>
